@@ -7,7 +7,7 @@ I am a fourth-year computer science student at Simon Fraser University, with a p
 Check out my [e-portfolio!](https://https://omansharora.netlify.app/)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)****
 📧 Email:
 You can reach me via email at: [omanshsfu@gmail.com](mailto:omanshsfu@gmail.com)
 
