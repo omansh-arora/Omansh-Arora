@@ -1,26 +1,16 @@
 <h1 align="center">Hi 👋 I'm Omansh Arora</h1>
 
 # 💫 About Me:
-I am a fourth-year computer science student at Simon Fraser University, passionate about exploring the realms of coding, machine learning, and building robust applications.
-
+I am a fourth-year computer science student at Simon Fraser University, with a passion for tech and AI, and over a year of experience as a software engineer at EA and Samsung.
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
-
-Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
-
-## 🎓 About Me
-
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
-
+Check out my [e-portfolio!](https://https://omansharora.netlify.app/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+📧 Email:
+You can reach me via email at: [omanshsfu@gmail.com](mailto:omanshsfu@gmail.com)
+
 
 # 💻 Tech Stack:
 Languages: 
