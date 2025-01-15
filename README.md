@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Omansh Arora</h1>
 
 # 💫 About Me:
-I am a fourth-year computer science student at Simon Fraser University, with a passion for tech and AI, and over a year of experience as a software engineer at EA and Samsung.
+I am a fifth-year computer science student at Simon Fraser University, with a passion for tech and AI, and over a year of experience as a software engineer at EA,Samsung, and Safe Software.
 ## 🚀 What I'm Up To
-
+I'm currently doing an internship at Safe Software, working hard to improve and streamline their FME Python plugins and Python interpreter!
 Check out my [e-portfolio!](https://https://omansharora.netlify.app/)
 
 ## 🌐 Connect with me:
