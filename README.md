@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋 I'm Omansh Arora</h1>
 
 # 💫 About Me:
-I am a fifth-year computer science student at Simon Fraser University, with a passion for tech and AI, and over a year of experience as a software engineer at EA,Samsung, and Safe Software.
+I am a fifth-year Computer Science student at Simon Fraser University, graduating in **December 2025** 🎓.  
+I have completed 4 internships as a Software Engineer/Developer at **Amazon, Safe Software, Samsung Research, and Electronic Arts**, gaining experience across software engineering, cloud, DevOps, and AI-related technologies.  
+I’m passionate about building scalable systems, exploring AI, and solving impactful problems through technology.
+
 ## 🚀 What I'm Up To
-I'm currently doing an internship at Safe Software, working hard to improve and streamline their FME Python plugins and Python interpreter!
-Check out my [e-portfolio!](https://https://omansharora.netlify.app/)
+I'm back at Simon Fraser University finishing my final year after completing my **Amazon SDE internship** (Summer 2025), where I designed and delivered a fraud mitigation and user verification system for the Payments team.  
+I’m actively learning more about AI/ML while preparing for graduation and my transition into full-time software engineering.  
+
+Check out my [e-portfolio!](https://omansharora.netlify.app/)
+
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)  
